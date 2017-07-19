@@ -1,23 +1,26 @@
-head{
-  font-: ;
-}
 
 h1{
-  color: blue;
-}
+  font-weight: 600;
+  font-variant: small-caps;
+  font-family: sans-serif;
+  color: Black;
+  padding: 10px;
+  text-align: center;
+  border: 10px solid White;
 
-h2{
-  color: Red;
-  font-weight: bold;
 }
 
 p{
-  text-indent: 4cm;
+  text-align: center;
+  border: 50px solid Chartreuse;
 }
-img{
-  width: 300px;
-  height: 400px;
-  padding: 20px;
-  border: 5px solid Black;
-  margin: 20px;
+a{
+color: Green;
+}
+
+div{
+  border: 5px solid White;
+}
+body{
+  background-color: Chartreuse;
 }
